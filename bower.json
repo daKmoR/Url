@@ -1,0 +1,17 @@
+{
+  "name": "Url",
+  "description": "Url Manipulation",
+  "authors": [
+    "Thomas Allmer <d4kmor@gmail.com>"
+  ],
+  "keywords": [
+    "php",
+    "url manipulation"
+  ],
+  "demos": {
+    "Demo": "demo/index.php"
+  },
+  "dependencies": {
+    "Is": "daKmoR/Is"
+  }
+}
